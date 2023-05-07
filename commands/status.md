@@ -3,12 +3,12 @@
 **git status** - проверка статуса состояния текущего локального репозитория. 
 
 Вывод команды до выполнения команд по добавлению, сохранению и заливанию изменений в проекте на удаленный репозиторий:
-![screenshot git status before push](../assets/screenshot_git_status.png)
+![screenshot git status before push](../assets/screenshot_git_status_before.png)
 
 Вывод команды после добавления изменения при помощи команды git add:
 ![screenshot git status after add](../assets/screenshot_git_status_after_add.png)
 
 Вывод команды после залития изменений на удаленный репозиторий:
-![screenshot git status after push](../assets/screenshot_git_status_after.png)
+![screenshot git status after push](../assets/screenshot_git_status_after_push.png)
 
 > Вывод на примерах имеет разные файлы, т.к. выполнение команд происходило в разное время. У вас, когда вы будете проводить данную команду и отслеживать статус, то будет вывод с теми файлами, с которыми вы работали.
