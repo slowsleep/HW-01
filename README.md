@@ -23,6 +23,7 @@ LICENSE: [MIT](LICENSE.md)
 9. [git config](/commands/config.md)
 10. [git status](/commands/status.md)
 11. [git log](/commands/log.md)
+12. [git pull](/commands/pull.md)
 
 ---
 
